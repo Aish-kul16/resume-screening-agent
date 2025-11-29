@@ -34,6 +34,8 @@ This is ideal as a **first-pass resume filter** in an HR process.
   - `scikit-learn` (TF-IDF, cosine similarity)
 - **PDF Text Extraction:**
   - `PyPDF2`
+- **APIs Used:** None (fully offline ML, no external services)
+
 
 No LLM, no cloud API, no billing.
 
