@@ -37,8 +37,6 @@ This is ideal as a **first-pass resume filter** in an HR process.
 - **APIs Used:** None (fully offline ML, no external services)
 
 
-No LLM, no cloud API, no billing.
-
 ---
 
 ## 🏗 Project Structure
